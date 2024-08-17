@@ -1,0 +1,5 @@
+import numpy as np
+arr = np.arr([1,2,3,6,4,5])
+reverse = arr[::-1]
+
+print(reverse)
