@@ -10,8 +10,6 @@
 
 Built using **OpenCV**, **LBPH algorithm**, and a **MySQL backend**, it provides an efficient, real-time, and secure attendance marking process — while being easy to operate even for non-technical users.
 
-Developed as part of UCS503 Software Engineering Lab @ TIET (April–July 2024).
-
 ---
 
 ## 🚀 Key Features
